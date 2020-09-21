@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<ul>
+<li>Home</li>
+<li>Learn to Code</li>
+<li>Create a Website</li>
+<li>Contact</li>
+<li>Get certified</li>
+</ul>
+
+<h1>I'm Juan</h1>
+
+<h3>I help <i>small businesses</i>	
+<br>establish a web presence</br></h3>
+
+<p>Schedule Consultation</p>
+
+<h2>Services</h2>
+
+<p>Wordpress</p>
+
+<h2>Let Me Help Your Web Presence</h2>
+
+<img src="https://shockleymarketing.com/wp-content/uploads/2012/08/guy-at-computer.jpg" width="500" >
+
+
+
+
+</body>
+</html>
